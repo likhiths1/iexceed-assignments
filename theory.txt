@@ -29,3 +29,11 @@ Multithreading
 Wrapper classes
 use of *javap* for learning architechture of classes
 Synchronization
+
+--DAY 6
+I/O streams
+
+--DAY 7
+interthread communication
+String and string functions
+StringBuilder and StringBuffer
