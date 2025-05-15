@@ -37,3 +37,5 @@ I/O streams
 interthread communication
 String and string functions
 StringBuilder and StringBuffer
+Collections
+Iterator
