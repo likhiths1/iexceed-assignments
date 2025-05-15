@@ -1,0 +1,31 @@
+What will be the maximum value accomodated by an integer in JAVA?
+What will be the maximum value accomodated by 8BIT?
+What is bit and byte?
+What is number system?
+
+--DAY 2
+Inheritance
+Polymorphism
+Abstraction
+Aggregation
+Composition
+Overloading, overriding (constructor,function)
+casting (upcasting,downcasting)
+
+--DAY 3
+Interface
+Encapsulation
+Functional Interface
+Modifiers in java (public,private..)
+Packages in JAVA
+
+--DAY 4
+Loops
+Anonymous classes
+Nested Classes
+
+--DAY 5
+Multithreading
+Wrapper classes
+use of *javap* for learning architechture of classes
+Synchronization
