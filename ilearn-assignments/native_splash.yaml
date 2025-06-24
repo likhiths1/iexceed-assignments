@@ -1,0 +1,19 @@
+# pubspec.yaml (add flutter_native_splash section)
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/logo.png
+  branding: assets/branding.png
+  color_dark: "#121212"
+  image_dark: assets/logo_dark.png
+  branding_dark: assets/branding_dark.png
+
+  android_12:
+    image: assets/logo.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/logo_dark.png
+    icon_background_color_dark: "#121212"
+
+  android: true
+  ios: true
+  web: false
